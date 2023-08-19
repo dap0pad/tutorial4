@@ -3,7 +3,7 @@ name: Run Maven Tests
 on:
   push:
     branches:
-      - main # Change this to the appropriate branch name
+      - main
 
 jobs:
   build:
